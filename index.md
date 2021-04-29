@@ -10,7 +10,7 @@ bigOS Mac Coin is a breakthrough cryptocurrency designed specifically to destroy
 
 **What does bigOS Mac Coin cost?**
 
-1 bigOS Mac Coin is equal $1.000.000.000.000.000 USD
+1 bigOS Mac Coin is equal to $1.000.000.000.000.000 USD.
 
 ### Support
 
