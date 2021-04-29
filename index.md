@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## bigOS Mac Coin
 
-You can use the [editor on GitHub](https://github.com/bigos-mac-coin/bigos-mac-coin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Purchase bigOS Mac Coin to help us destroy the environment: [https://bigos-mac-co.in](https://support.apple.com/library/content/dam/edam/applecare/images/en_US/applewatch/watch-friends-watchos2.jpg)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### FAQ
 
-### Markdown
+**What is bigOS Mac Coin?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+bigOS Mac Coin is a breakthrough cryptocurrency designed specifically to destroy the environment. You may only use bigOS Mac Coin to purchase fossil fuels.
 
-```markdown
-Syntax highlighted code block
+**What does bigOS Mac Coin cost?**
 
-# Header 1
-## Header 2
-### Header 3
+1 bigOS Mac Coin is equal $1.000.000.000.000.000 USD
 
-- Bulleted
-- List
+### Support
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bigos-mac-coin/bigos-mac-coin/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Stay connected with bigOS Mac Sur: https://twitter.com/bigOS_Mac_Sur
