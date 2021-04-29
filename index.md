@@ -14,4 +14,4 @@ bigOS Mac Coin is a breakthrough cryptocurrency designed specifically to destroy
 
 ### Support
 
-Stay connected with bigOS Mac Sur: https://twitter.com/bigOS_Mac_Sur
+Stay connected with bigOS Mac Sur: [https://twitter.com/bigOS_Mac_Sur](https://twitter.com/bigOS_Mac_Sur)
